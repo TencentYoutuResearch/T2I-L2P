@@ -1,6 +1,6 @@
 <div align="center">
 
-# L2P: Unlocking Latent Potential for Pixel Generation
+# [NeurIPS 2026 Spotlight]  L2P: Unlocking Latent Potential for Pixel Generation
 
 <p>
   <a href="https://nju-pcalab.github.io/projects/L2P/">
