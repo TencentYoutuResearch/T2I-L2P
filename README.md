@@ -36,6 +36,7 @@
 - **\[2026.05.22\]** 1K-resolution training code, inference code, weights, and dataset released.
 - **\[2026.05.23\]** Online [demo](https://huggingface.co/spaces/multimodalart/z-image-6b-pixel-space). (Thanks to [multimodalart](https://huggingface.co/multimodalart) for the support!)
 - **\[2026.07.11\]** 4K/8K/10K UHR training code, inference code, weights, and dataset released (see  [L2P-ZImage-HR](https://github.com/HaojunChen663/PixVerve-95K/tree/main/L2P-ZImage-HR)).
+- **\[2026.09.25\]** L2P has been accepted by NeurIPS 2026 and recommended as a Spotlight (**Top 0.95%**).
 ---
 
 ## 🗺️ Roadmap
